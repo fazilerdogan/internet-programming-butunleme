@@ -1,0 +1,17 @@
+#ilet{
+    background: url("../resim/121806.jpg");
+    background-size: cover;
+    padding: 50px;
+    height: 830px;
+    text-align: center;
+}
+#degerlendirme{
+    height: 200px;
+    width: 700px;
+}
+#egitim{
+    background-color: rgb(217, 228, 233);
+    padding: 50px;
+    text-align: center;
+    height: 500px;
+}
